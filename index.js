@@ -29,6 +29,7 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
     
+    //defining variables for string responses
     var speakUp = "I can't hear you!"
     var yesIndeed = "YES INDEED!"
     var grandmaLove = "I love you, too."
