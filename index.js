@@ -36,11 +36,11 @@ function sayHiToGrandma(string) {
       return speakUp 
     }
     
-    if (string.toLowerCase() === lowercase){
+    else if (string.toLowerCase() === lowercase){
       return yesIndeed
     }
     
-    if (string === "I love you, Grandma."){
+    else if (string === "I love you, Grandma."){
       return grandmaLove
     }
 }
