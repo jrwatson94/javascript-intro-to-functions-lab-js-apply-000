@@ -28,7 +28,7 @@ function logWhisper(string) {
 //                  3) returns "I love you, too." if string is "I love you, Grandma."
 
 function sayHiToGrandma(string) {
-    return string
+    if ()
 }
 
 
