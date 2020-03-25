@@ -22,4 +22,4 @@ function logWhisper(string) {
 }
 
 //say hi to Grandma: 1) returns "I can't hear you" if string is lower case 
-//    
+//                  2) returns 
