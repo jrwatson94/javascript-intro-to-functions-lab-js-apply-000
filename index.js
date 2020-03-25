@@ -33,11 +33,11 @@ function sayHiToGrandma(string) {
     var yesIndeed = "YES INDEED!"
     var grandmaLove = "I love you, too."
     
-    if (string.toUpperCase() === string){
+    if (string.toLowerCase() === string){
       return speakUp 
     }
     
-    else if (string.toLowerCase() === string){
+    else if (string.toUpperCase() === string){
       return yesIndeed
     }
     
